@@ -1,0 +1,6 @@
+name: Lyeaf Skyblock
+version: '1.0-SNAPSHOT'
+main: com.skyblock
+api-version: '1.8.8'
+authors: [Arumiko]
+website: https://github.com/goshikisuki
